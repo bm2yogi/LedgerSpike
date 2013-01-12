@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Sahara</id>
+    <version>1.0.0.1</version>
+    <authors>Michael Ibarra</authors>
+    <owners>Michael Ibarra</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Fluent Test Assertions for NUnit tests</description>
+    <copyright>Copyright 2012</copyright>
+  </metadata>
+</package>
